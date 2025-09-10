@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Sina 👋
 
-<!--
-**Shadow22025/Shadow22025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Backend Developer** passionate about building secure and scalable web applications.  
 
-Here are some ideas to get you started:
+🌱 **Currently Learning:** Go, Advanced Backend Systems  
+💻 **Tech Stack:** Python, Django, Django REST Framework, PostgreSQL, Docker, C  
+🔐 **Interests:** Information Security, Ethical Hacking, API Development, System Architecture  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+- 💡 Always curious and eager to learn new technologies  
+- ⚙️ Enjoy building APIs and web applications  
+- 🔍 Passionate about security, hacking challenges, and best practices in software development  
+- 🌍 Open to collaborations and contributing to open-source projects  
+
+---
+
+### 🛠️ Skills
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/-DRF-0A0A0A?style=flat&logo=django&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Hacking](https://img.shields.io/badge/-Hacking-FF0000?style=flat&logo=hackthebox&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+![Sina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Contact Me
+📧 Email: `shadow828384@gmail.com`  
+🐙 GitHub: [https://github.com/Shadow22025](https://github.com/Shadow22025)
+
+---
+
+### ⚡ Fun Fact
+I love exploring **security challenges, hacking, and C programming**. Currently diving into **Go** to expand my backend expertise!
