@@ -23,7 +23,6 @@ I'm a **Backend Developer** passionate about building secure and scalable web ap
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=flat)
 ![Reverse Engineering](https://img.shields.io/badge/-Reverse_Engineering-FF7F50?style=flat) 
-![Pwn](https://img.shields.io/badge/-Pwn-FF0000?style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Hacking](https://img.shields.io/badge/-Hacking-FF0000?style=flat&logo=hackthebox&logoColor=white)
